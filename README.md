@@ -1,3 +1,2 @@
-# A first-level heading
-## A second-level heading
-### A third-level heading
+### Hi there 👋
+- I'm currently learning about ICT stuff
