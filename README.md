@@ -1,2 +1,2 @@
 ### Hi there 👋
-- I'm currently learning about ICT stuff
+- I'm currently working on and learning about web development. 
